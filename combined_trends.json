@@ -1,0 +1,171 @@
+[
+    {
+        "hashtag": "9gag",
+        "predicted_trend": "HIGH",
+        "combined_score": 1.0,
+        "predicted_engagement_next_24h": 50000000,
+        "likely_platforms": [
+            "Instagram"
+        ],
+        "top_posts": [
+            {
+                "url": "https://www.instagram.com/p/DQPInhkk8vY/",
+                "engagement": 135
+            },
+            {
+                "url": "https://www.instagram.com/p/DQOtHxyguGp/",
+                "engagement": 24
+            },
+            {
+                "url": "https://www.instagram.com/p/DQLfF9VjEAh/",
+                "engagement": 71
+            }
+        ]
+    },
+    {
+        "hashtag": "nba",
+        "predicted_trend": "HIGH",
+        "combined_score": 1.0,
+        "predicted_engagement_next_24h": 50000000,
+        "likely_platforms": [
+            "TikTok"
+        ],
+        "top_posts": [
+            {
+                "url": "https://www.tiktok.com/@nba/video/7562406072955309343",
+                "engagement": 182226
+            }
+        ]
+    },
+    {
+        "hashtag": "basketball",
+        "predicted_trend": "HIGH",
+        "combined_score": 1.0,
+        "predicted_engagement_next_24h": 50000000,
+        "likely_platforms": [
+            "TikTok"
+        ],
+        "top_posts": [
+            {
+                "url": "https://www.tiktok.com/@nba/video/7562406072955309343",
+                "engagement": 182226
+            }
+        ]
+    },
+    {
+        "hashtag": "wemby",
+        "predicted_trend": "HIGH",
+        "combined_score": 1.0,
+        "predicted_engagement_next_24h": 50000000,
+        "likely_platforms": [
+            "TikTok"
+        ],
+        "top_posts": [
+            {
+                "url": "https://www.tiktok.com/@nba/video/7562406072955309343",
+                "engagement": 182226
+            }
+        ]
+    },
+    {
+        "hashtag": "victorwembanyama",
+        "predicted_trend": "HIGH",
+        "combined_score": 1.0,
+        "predicted_engagement_next_24h": 50000000,
+        "likely_platforms": [
+            "TikTok"
+        ],
+        "top_posts": [
+            {
+                "url": "https://www.tiktok.com/@nba/video/7562406072955309343",
+                "engagement": 182226
+            }
+        ]
+    },
+    {
+        "hashtag": "spurs",
+        "predicted_trend": "HIGH",
+        "combined_score": 1.0,
+        "predicted_engagement_next_24h": 50000000,
+        "likely_platforms": [
+            "TikTok"
+        ],
+        "top_posts": [
+            {
+                "url": "https://www.tiktok.com/@nba/video/7562406072955309343",
+                "engagement": 182226
+            }
+        ]
+    },
+    {
+        "hashtag": "purrfect",
+        "predicted_trend": "HIGH",
+        "combined_score": 1.0,
+        "predicted_engagement_next_24h": 50000000,
+        "likely_platforms": [
+            "Facebook"
+        ],
+        "top_posts": [
+            {
+                "url": "https://www.facebook.com/9gag/posts/pfbid0bESSfcTyG5UJFqVLZsJ7M2951QxguSqY7rjujwJV9jCHVTwdFRRvYChoBW6HStv1l",
+                "engagement": 1526,
+                "hours_ago": 7.52
+            }
+        ]
+    },
+    {
+        "hashtag": "purrfectcandidate",
+        "predicted_trend": "HIGH",
+        "combined_score": 1.0,
+        "predicted_engagement_next_24h": 50000000,
+        "likely_platforms": [
+            "Facebook"
+        ],
+        "top_posts": [
+            {
+                "url": "https://www.facebook.com/9gag/posts/pfbid0bESSfcTyG5UJFqVLZsJ7M2951QxguSqY7rjujwJV9jCHVTwdFRRvYChoBW6HStv1l",
+                "engagement": 1526,
+                "hours_ago": 7.52
+            }
+        ]
+    },
+    {
+        "hashtag": "memes",
+        "predicted_trend": "HIGH",
+        "combined_score": 0.8181901635077364,
+        "predicted_engagement_next_24h": 39300232,
+        "likely_platforms": [
+            "Instagram"
+        ],
+        "top_posts": [
+            {
+                "url": "https://www.instagram.com/p/DQPInhkk8vY/",
+                "engagement": 135
+            },
+            {
+                "url": "https://www.instagram.com/p/DQLfF9VjEAh/",
+                "engagement": 71
+            },
+            {
+                "url": "https://www.instagram.com/p/DQNGMZskzs_/",
+                "engagement": 138
+            }
+        ]
+    },
+    {
+        "hashtag": "most",
+        "predicted_trend": "MEDIUM",
+        "combined_score": 0.45406327600532054,
+        "predicted_engagement_next_24h": 19386957,
+        "likely_platforms": [
+            "Facebook"
+        ],
+        "top_posts": [
+            {
+                "url": "https://www.facebook.com/natgeo/posts/pfbid0mY9Skp8WE9EjmCgurC29Xj6vFxoYVqzYG9u85rp6izfmwVnoYpdqsPnX137mbf89l",
+                "engagement": 873,
+                "hours_ago": 11.52
+            }
+        ]
+    }
+]

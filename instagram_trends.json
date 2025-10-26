@@ -1,0 +1,316 @@
+[
+    {
+        "platform": "Instagram",
+        "hashtag": "9gag",
+        "score": 1.0,
+        "predicted_trend": "HIGH",
+        "predicted_engagement_next_24h": 50000000,
+        "top_posts": [
+            {
+                "url": "https://www.instagram.com/p/DQPInhkk8vY/",
+                "engagement": 135
+            },
+            {
+                "url": "https://www.instagram.com/p/DQOtHxyguGp/",
+                "engagement": 24
+            },
+            {
+                "url": "https://www.instagram.com/p/DQLfF9VjEAh/",
+                "engagement": 71
+            },
+            {
+                "url": "https://www.instagram.com/p/DQLtNzaEXvi/",
+                "engagement": 143
+            },
+            {
+                "url": "https://www.instagram.com/p/DQNGMZskzs_/",
+                "engagement": 138
+            },
+            {
+                "url": "https://www.instagram.com/p/DQOmQzAkiF5/",
+                "engagement": 28
+            },
+            {
+                "url": "https://www.instagram.com/p/DQMIWBCCBwi/",
+                "engagement": 204
+            },
+            {
+                "url": "https://www.instagram.com/p/DQOD6RgjPML/",
+                "engagement": 153
+            },
+            {
+                "url": "https://www.instagram.com/p/DQQornvjMGI/",
+                "engagement": 27
+            },
+            {
+                "url": "https://www.instagram.com/p/DQJcoMOCcO5/",
+                "engagement": 214
+            },
+            {
+                "url": "https://www.instagram.com/p/DQJU2w-ExqM/",
+                "engagement": 101
+            },
+            {
+                "url": "https://www.instagram.com/p/DQH8gKBFN7u/",
+                "engagement": 160
+            },
+            {
+                "url": "https://www.instagram.com/p/DQJIFJsExYI/",
+                "engagement": 166
+            },
+            {
+                "url": "https://www.instagram.com/p/DQIcqzwjijZ/",
+                "engagement": 196
+            },
+            {
+                "url": "https://www.instagram.com/p/DQCzKdCFNsg/",
+                "engagement": 161
+            },
+            {
+                "url": "https://www.instagram.com/p/DQDVOfOlCJM/",
+                "engagement": 552
+            },
+            {
+                "url": "https://www.instagram.com/p/DQETGrwj4Fl/",
+                "engagement": 269
+            },
+            {
+                "url": "https://www.instagram.com/p/DQGVfhMjBE_/",
+                "engagement": 70
+            },
+            {
+                "url": "https://www.instagram.com/p/DQDwruXDOiU/",
+                "engagement": 52
+            },
+            {
+                "url": "https://www.instagram.com/p/DQF6CGXAMny/",
+                "engagement": 275
+            },
+            {
+                "url": "https://www.instagram.com/p/DQGjRsLDbks/",
+                "engagement": 608
+            },
+            {
+                "url": "https://www.instagram.com/p/DQHP7mfkZk6/",
+                "engagement": 306
+            },
+            {
+                "url": "https://www.instagram.com/p/DQMj7YfE5Ul/",
+                "engagement": 920
+            },
+            {
+                "url": "https://www.instagram.com/p/DQD-cADEayG/",
+                "engagement": 625
+            },
+            {
+                "url": "https://www.instagram.com/p/DQKhSKek3_F/",
+                "engagement": 103
+            },
+            {
+                "url": "https://www.instagram.com/p/DQE1XmSE2sS/",
+                "engagement": 70
+            },
+            {
+                "url": "https://www.instagram.com/p/DP_r1NAE1Ha/",
+                "engagement": 89
+            },
+            {
+                "url": "https://www.instagram.com/p/DQAOG3KgV0c/",
+                "engagement": 147
+            },
+            {
+                "url": "https://www.instagram.com/p/DQBL42VDIGX/",
+                "engagement": 1427
+            }
+        ]
+    },
+    {
+        "platform": "Instagram",
+        "hashtag": "memes",
+        "score": 0.8181901635077364,
+        "predicted_trend": "HIGH",
+        "predicted_engagement_next_24h": 39300232,
+        "top_posts": [
+            {
+                "url": "https://www.instagram.com/p/DQPInhkk8vY/",
+                "engagement": 135
+            },
+            {
+                "url": "https://www.instagram.com/p/DQLfF9VjEAh/",
+                "engagement": 71
+            },
+            {
+                "url": "https://www.instagram.com/p/DQNGMZskzs_/",
+                "engagement": 138
+            },
+            {
+                "url": "https://www.instagram.com/p/DQOD6RgjPML/",
+                "engagement": 153
+            },
+            {
+                "url": "https://www.instagram.com/p/DQQornvjMGI/",
+                "engagement": 27
+            },
+            {
+                "url": "https://www.instagram.com/p/DQJU2w-ExqM/",
+                "engagement": 101
+            },
+            {
+                "url": "https://www.instagram.com/p/DQH8gKBFN7u/",
+                "engagement": 160
+            },
+            {
+                "url": "https://www.instagram.com/p/DQCzKdCFNsg/",
+                "engagement": 161
+            },
+            {
+                "url": "https://www.instagram.com/p/DQGn3BWkcOm/",
+                "engagement": 675
+            },
+            {
+                "url": "https://www.instagram.com/p/DQGVfhMjBE_/",
+                "engagement": 70
+            },
+            {
+                "url": "https://www.instagram.com/p/DQDwruXDOiU/",
+                "engagement": 52
+            },
+            {
+                "url": "https://www.instagram.com/p/DQMj7YfE5Ul/",
+                "engagement": 920
+            },
+            {
+                "url": "https://www.instagram.com/p/DQD-cADEayG/",
+                "engagement": 625
+            },
+            {
+                "url": "https://www.instagram.com/p/DQKhSKek3_F/",
+                "engagement": 103
+            },
+            {
+                "url": "https://www.instagram.com/p/DQE1XmSE2sS/",
+                "engagement": 70
+            },
+            {
+                "url": "https://www.instagram.com/p/DP_r1NAE1Ha/",
+                "engagement": 89
+            },
+            {
+                "url": "https://www.instagram.com/p/DQAOG3KgV0c/",
+                "engagement": 147
+            },
+            {
+                "url": "https://www.instagram.com/p/DQBL42VDIGX/",
+                "engagement": 1427
+            }
+        ]
+    },
+    {
+        "platform": "Instagram",
+        "hashtag": "rejection",
+        "score": 0.3169008319307415,
+        "predicted_trend": "LOW",
+        "predicted_engagement_next_24h": 12591517,
+        "top_posts": [
+            {
+                "url": "https://www.instagram.com/p/DQMj7YfE5Ul/",
+                "engagement": 920
+            }
+        ]
+    },
+    {
+        "platform": "Instagram",
+        "hashtag": "email",
+        "score": 0.3169008319307415,
+        "predicted_trend": "LOW",
+        "predicted_engagement_next_24h": 12591517,
+        "top_posts": [
+            {
+                "url": "https://www.instagram.com/p/DQMj7YfE5Ul/",
+                "engagement": 920
+            }
+        ]
+    },
+    {
+        "platform": "Instagram",
+        "hashtag": "fail",
+        "score": 0.1868526748855821,
+        "predicted_trend": "LOW",
+        "predicted_engagement_next_24h": 6679888,
+        "top_posts": [
+            {
+                "url": "https://www.instagram.com/p/DQPInhkk8vY/",
+                "engagement": 135
+            },
+            {
+                "url": "https://www.instagram.com/p/DQBL42VDIGX/",
+                "engagement": 1427
+            }
+        ]
+    },
+    {
+        "platform": "Instagram",
+        "hashtag": "googletranslate",
+        "score": 0.18577734574212312,
+        "predicted_trend": "LOW",
+        "predicted_engagement_next_24h": 6633784,
+        "top_posts": [
+            {
+                "url": "https://www.instagram.com/p/DQPInhkk8vY/",
+                "engagement": 135
+            }
+        ]
+    },
+    {
+        "platform": "Instagram",
+        "hashtag": "nostalgia",
+        "score": 0.11810901229860818,
+        "predicted_trend": "LOW",
+        "predicted_engagement_next_24h": 3852207,
+        "top_posts": [
+            {
+                "url": "https://www.instagram.com/p/DQOD6RgjPML/",
+                "engagement": 153
+            }
+        ]
+    },
+    {
+        "platform": "Instagram",
+        "hashtag": "childhood",
+        "score": 0.11810901229860818,
+        "predicted_trend": "LOW",
+        "predicted_engagement_next_24h": 3852207,
+        "top_posts": [
+            {
+                "url": "https://www.instagram.com/p/DQOD6RgjPML/",
+                "engagement": 153
+            }
+        ]
+    },
+    {
+        "platform": "Instagram",
+        "hashtag": "ExtremeRescues",
+        "score": 0.08954203619635684,
+        "predicted_trend": "LOW",
+        "predicted_engagement_next_24h": 2763137,
+        "top_posts": [
+            {
+                "url": "https://www.instagram.com/p/DQH1-kkANKN/",
+                "engagement": 3282
+            }
+        ]
+    },
+    {
+        "platform": "Instagram",
+        "hashtag": "hair",
+        "score": 0.08335635415928142,
+        "predicted_trend": "LOW",
+        "predicted_engagement_next_24h": 2535692,
+        "top_posts": [
+            {
+                "url": "https://www.instagram.com/p/DQQornvjMGI/",
+                "engagement": 27
+            }
+        ]
+    }
+]

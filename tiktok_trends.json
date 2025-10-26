@@ -1,0 +1,132 @@
+[
+    {
+        "platform": "TikTok",
+        "hashtag": "nba",
+        "score": 1.0,
+        "predicted_trend": "HIGH",
+        "predicted_engagement_next_24h": 50000000,
+        "top_posts": [
+            {
+                "url": "https://www.tiktok.com/@nba/video/7562406072955309343",
+                "engagement": 182226
+            }
+        ]
+    },
+    {
+        "platform": "TikTok",
+        "hashtag": "basketball",
+        "score": 1.0,
+        "predicted_trend": "HIGH",
+        "predicted_engagement_next_24h": 50000000,
+        "top_posts": [
+            {
+                "url": "https://www.tiktok.com/@nba/video/7562406072955309343",
+                "engagement": 182226
+            }
+        ]
+    },
+    {
+        "platform": "TikTok",
+        "hashtag": "wemby",
+        "score": 1.0,
+        "predicted_trend": "HIGH",
+        "predicted_engagement_next_24h": 50000000,
+        "top_posts": [
+            {
+                "url": "https://www.tiktok.com/@nba/video/7562406072955309343",
+                "engagement": 182226
+            }
+        ]
+    },
+    {
+        "platform": "TikTok",
+        "hashtag": "victorwembanyama",
+        "score": 1.0,
+        "predicted_trend": "HIGH",
+        "predicted_engagement_next_24h": 50000000,
+        "top_posts": [
+            {
+                "url": "https://www.tiktok.com/@nba/video/7562406072955309343",
+                "engagement": 182226
+            }
+        ]
+    },
+    {
+        "platform": "TikTok",
+        "hashtag": "spurs",
+        "score": 1.0,
+        "predicted_trend": "HIGH",
+        "predicted_engagement_next_24h": 50000000,
+        "top_posts": [
+            {
+                "url": "https://www.tiktok.com/@nba/video/7562406072955309343",
+                "engagement": 182226
+            }
+        ]
+    },
+    {
+        "platform": "TikTok",
+        "hashtag": "cleaningyourcloset",
+        "score": 0.0,
+        "predicted_trend": "LOW",
+        "predicted_engagement_next_24h": 0,
+        "top_posts": [
+            {
+                "url": "https://www.tiktok.com/@fashion/video/7262071210492595498",
+                "engagement": 227182
+            }
+        ]
+    },
+    {
+        "platform": "TikTok",
+        "hashtag": "closetcleanout",
+        "score": 0.0,
+        "predicted_trend": "LOW",
+        "predicted_engagement_next_24h": 0,
+        "top_posts": [
+            {
+                "url": "https://www.tiktok.com/@fashion/video/7262071210492595498",
+                "engagement": 227182
+            }
+        ]
+    },
+    {
+        "platform": "TikTok",
+        "hashtag": "declutterwithme",
+        "score": 0.0,
+        "predicted_trend": "LOW",
+        "predicted_engagement_next_24h": 0,
+        "top_posts": [
+            {
+                "url": "https://www.tiktok.com/@fashion/video/7262071210492595498",
+                "engagement": 227182
+            }
+        ]
+    },
+    {
+        "platform": "TikTok",
+        "hashtag": "tech",
+        "score": 0.0,
+        "predicted_trend": "LOW",
+        "predicted_engagement_next_24h": 0,
+        "top_posts": [
+            {
+                "url": "https://www.tiktok.com/@tech/video/6930931702000897285",
+                "engagement": 2124113
+            }
+        ]
+    },
+    {
+        "platform": "TikTok",
+        "hashtag": "uniladtech",
+        "score": 0.0,
+        "predicted_trend": "LOW",
+        "predicted_engagement_next_24h": 0,
+        "top_posts": [
+            {
+                "url": "https://www.tiktok.com/@tech/video/6930931702000897285",
+                "engagement": 2124113
+            }
+        ]
+    }
+]

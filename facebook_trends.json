@@ -1,0 +1,142 @@
+[
+    {
+        "platform": "Facebook",
+        "hashtag": "purrfect",
+        "score": 1.0,
+        "predicted_trend": "HIGH",
+        "predicted_engagement_next_24h": 50000000,
+        "top_posts": [
+            {
+                "url": "https://www.facebook.com/9gag/posts/pfbid0bESSfcTyG5UJFqVLZsJ7M2951QxguSqY7rjujwJV9jCHVTwdFRRvYChoBW6HStv1l",
+                "engagement": 1526,
+                "hours_ago": 7.52
+            }
+        ]
+    },
+    {
+        "platform": "Facebook",
+        "hashtag": "purrfectcandidate",
+        "score": 1.0,
+        "predicted_trend": "HIGH",
+        "predicted_engagement_next_24h": 50000000,
+        "top_posts": [
+            {
+                "url": "https://www.facebook.com/9gag/posts/pfbid0bESSfcTyG5UJFqVLZsJ7M2951QxguSqY7rjujwJV9jCHVTwdFRRvYChoBW6HStv1l",
+                "engagement": 1526,
+                "hours_ago": 7.52
+            }
+        ]
+    },
+    {
+        "platform": "Facebook",
+        "hashtag": "most",
+        "score": 0.45406327600532054,
+        "predicted_trend": "MEDIUM",
+        "predicted_engagement_next_24h": 19386957,
+        "top_posts": [
+            {
+                "url": "https://www.facebook.com/natgeo/posts/pfbid0mY9Skp8WE9EjmCgurC29Xj6vFxoYVqzYG9u85rp6izfmwVnoYpdqsPnX137mbf89l",
+                "engagement": 873,
+                "hours_ago": 11.52
+            }
+        ]
+    },
+    {
+        "platform": "Facebook",
+        "hashtag": "issues",
+        "score": 0.45406327600532054,
+        "predicted_trend": "MEDIUM",
+        "predicted_engagement_next_24h": 19386957,
+        "top_posts": [
+            {
+                "url": "https://www.facebook.com/natgeo/posts/pfbid0mY9Skp8WE9EjmCgurC29Xj6vFxoYVqzYG9u85rp6izfmwVnoYpdqsPnX137mbf89l",
+                "engagement": 873,
+                "hours_ago": 11.52
+            }
+        ]
+    },
+    {
+        "platform": "Facebook",
+        "hashtag": "considersymptoms",
+        "score": 0.45406327600532054,
+        "predicted_trend": "MEDIUM",
+        "predicted_engagement_next_24h": 19386957,
+        "top_posts": [
+            {
+                "url": "https://www.facebook.com/natgeo/posts/pfbid0mY9Skp8WE9EjmCgurC29Xj6vFxoYVqzYG9u85rp6izfmwVnoYpdqsPnX137mbf89l",
+                "engagement": 873,
+                "hours_ago": 11.52
+            }
+        ]
+    },
+    {
+        "platform": "Facebook",
+        "hashtag": "often",
+        "score": 0.45406327600532054,
+        "predicted_trend": "MEDIUM",
+        "predicted_engagement_next_24h": 19386957,
+        "top_posts": [
+            {
+                "url": "https://www.facebook.com/natgeo/posts/pfbid0mY9Skp8WE9EjmCgurC29Xj6vFxoYVqzYG9u85rp6izfmwVnoYpdqsPnX137mbf89l",
+                "engagement": 873,
+                "hours_ago": 11.52
+            }
+        ]
+    },
+    {
+        "platform": "Facebook",
+        "hashtag": "diagnosis",
+        "score": 0.45406327600532054,
+        "predicted_trend": "MEDIUM",
+        "predicted_engagement_next_24h": 19386957,
+        "top_posts": [
+            {
+                "url": "https://www.facebook.com/natgeo/posts/pfbid0mY9Skp8WE9EjmCgurC29Xj6vFxoYVqzYG9u85rp6izfmwVnoYpdqsPnX137mbf89l",
+                "engagement": 873,
+                "hours_ago": 11.52
+            }
+        ]
+    },
+    {
+        "platform": "Facebook",
+        "hashtag": "forestsfall",
+        "score": 0.3437748885154777,
+        "predicted_trend": "LOW",
+        "predicted_engagement_next_24h": 13883501,
+        "top_posts": [
+            {
+                "url": "https://www.facebook.com/natgeo/posts/pfbid0hDj8YrtBdsaUVmqjALk8jWDqdQoCa5gGDYcgt6zrX72Fhr39N3asNGBz5bqQa1bal",
+                "engagement": 786,
+                "hours_ago": 14.52
+            }
+        ]
+    },
+    {
+        "platform": "Facebook",
+        "hashtag": "imagearchives",
+        "score": 0.3437748885154777,
+        "predicted_trend": "LOW",
+        "predicted_engagement_next_24h": 13883501,
+        "top_posts": [
+            {
+                "url": "https://www.facebook.com/natgeo/posts/pfbid0hDj8YrtBdsaUVmqjALk8jWDqdQoCa5gGDYcgt6zrX72Fhr39N3asNGBz5bqQa1bal",
+                "engagement": 786,
+                "hours_ago": 14.52
+            }
+        ]
+    },
+    {
+        "platform": "Facebook",
+        "hashtag": "winds",
+        "score": 0.3437748885154777,
+        "predicted_trend": "LOW",
+        "predicted_engagement_next_24h": 13883501,
+        "top_posts": [
+            {
+                "url": "https://www.facebook.com/natgeo/posts/pfbid0hDj8YrtBdsaUVmqjALk8jWDqdQoCa5gGDYcgt6zrX72Fhr39N3asNGBz5bqQa1bal",
+                "engagement": 786,
+                "hours_ago": 14.52
+            }
+        ]
+    }
+]

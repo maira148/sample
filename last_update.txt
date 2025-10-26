@@ -1,0 +1,7 @@
+Last update: 2025-10-26 11:02:24
+
+{
+    "Instagram": 100,
+    "TikTok": 3,
+    "Facebook": 9
+}
