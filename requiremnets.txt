@@ -1,0 +1,24 @@
+# Core app dependencies
+streamlit==1.39.0
+pandas==2.2.3
+numpy==1.26.4
+
+# Machine learning / data processing (optional but often needed)
+scikit-learn==1.5.2
+textblob==0.17.1
+
+# Visualization
+matplotlib==3.9.2
+plotly==5.24.1
+
+# Web requests / APIs
+requests==2.32.3
+
+# JSON, regex, and utility helpers
+regex==2024.9.11
+
+# If you use any NLP or hashtag generation
+nltk==3.9.1
+
+# For date handling
+python-dateutil==2.9.0.post0
